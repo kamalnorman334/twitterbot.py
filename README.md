@@ -1,5 +1,5 @@
-TwitterBot Data Scraper & Mailer
-TwitterBot.py is a Python-based Twitter bot designed to scrape data from Twitter, such as tweets, mentions, and user information, and send email reports with the collected data. This bot can be configured to search for specific keywords, hashtags, or users and deliver the results to your inbox.
+TwitterBot Data Scraper 
+TwitterBot.py is a Python-based Twitter bot designed to scrape data from Twitter, such as  mentions, and user information, and give  reports with the collected data. This bot can be configured to search for specific keywords, hashtags, or users and deliver the results to your inbox.
 
 Features
 Scrape Tweets: Collect tweets based on specific hashtags, keywords, or user mentions.
